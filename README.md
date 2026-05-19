@@ -1,2 +1,21 @@
-# IPL-Data-Analysis
-Analyzed IPL cricket dataset to identify player performance, team statistics, and match insights using Python and data visualization.
+
+# IPL Data Analysis
+
+## Objective
+Analyze IPL dataset to find player and team performance insights.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Dataset
+- matches.csv
+- deliveries.csv
+
+## Insights
+- Top run scorers
+- Most wickets
+- Winning teams analysis
+- Toss impact
